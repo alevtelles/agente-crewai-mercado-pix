@@ -19,7 +19,7 @@ Sistema de Inteligência de Mercado que integra **dados reais do sistema Pix** c
       ▼      ▼
 ┌───────────────┐  ┌──────────────┐
 │ 4 Agentes AI  │  │ API Pix BCB  │
-│ Especializados │  │ (Dados Pix)  │
+│ Especializados│  │ (Dados Pix)  │
 └───────────────┘  └──────────────┘
 ```
 
