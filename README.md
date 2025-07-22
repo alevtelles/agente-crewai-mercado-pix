@@ -2,7 +2,7 @@
 
 Sistema de Inteligência de Mercado que integra **dados reais do sistema Pix** com análise financeira utilizando **CrewAI** e **dados oficiais do Banco Central do Brasil**.
 
-![Logo do Projeto](src/image/tela.png)
+![Home](src/image/tela.png)
 
 ## 🏗️ Arquitetura
 
