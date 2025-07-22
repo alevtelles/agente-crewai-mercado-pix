@@ -1,0 +1,12 @@
+crewai
+langchain
+langchain-openai
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+pydantic
+streamlit
+plotly
+altair
+beautifulsoup4
